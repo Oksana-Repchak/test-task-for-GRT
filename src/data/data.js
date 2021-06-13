@@ -1,322 +1,322 @@
 export const mainData = [
   {
-    'group': [
+    group: [
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coca-Cola',
+            text: 'Coca-Cola',
           },
         ],
-        'price': [
+        price: [
           {
-            'text': ' price 1.95 euro',
+            text: ' price 1.95 euro',
           },
         ],
-        'category': [
+        category: [
           {
-            'text': 'Boissons',
+            text: 'Boissons',
           },
         ],
-        'productUrl': [
+        productUrl: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000104831',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000104831',
           },
         ],
-        'thumbnail': [
+        thumbnail: [
           {
-            'text': 'https://product-images.metro.ca/images/h3f/hc9/9704124809246.jpg',
+            text: 'https://product-images.metro.ca/images/h3f/hc9/9704124809246.jpg',
           },
         ],
-        'name': [
+        name: [
           {
-            'text': 'Boisson gazeuse',
+            text: 'Boisson gazeuse',
           },
         ],
-        'nameExtended': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse 12x355 mL',
+            text: 'Boisson gazeuse 12x355 mL',
           },
         ],
-        'rankOrganic': [
+        rankOrganic: [
           {
-            'text': '1',
+            text: '1',
           },
         ],
-        'rank': [
+        rank: [
           {
-            'text': '1',
+            text: '1',
           },
         ],
       },
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coca-Cola',
+            text: 'Coca-Cola',
           },
         ],
-        'price': [
+        price: [
           {
-            'text': ' price 5,55 euro',
+            text: ' price 5,55 euro',
           },
         ],
-        'category': [
+        category: [
           {
-            'text': 'Boissons',
+            text: 'Boissons',
           },
         ],
-        'productUrl': [
+        productUrl: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000109836',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000109836',
           },
         ],
-        'thumbnail': [
+        thumbnail: [
           {
-            'text': 'https://product-images.metro.ca/images/hd8/hc0/9704066351134.jpg',
+            text: 'https://product-images.metro.ca/images/hd8/hc0/9704066351134.jpg',
           },
         ],
-        'name': [
+        name: [
           {
-            'text': 'Boisson gazeuse',
+            text: 'Boisson gazeuse',
           },
         ],
-        'nameExtended': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse 6x222 mL',
+            text: 'Boisson gazeuse 6x222 mL',
           },
         ],
-        'rankOrganic': [
+        rankOrganic: [
           {
-            'text': '2',
+            text: '2',
           },
         ],
-        'rank': [
+        rank: [
           {
-            'text': '2',
-          },
-        ],
-      },
-      {
-        'brand': [
-          {
-            'text': 'Coca-Cola',
-          },
-        ],
-        'price': [],
-        'category': [
-          {
-            'text': 'Boissons',
-          },
-        ],
-        'productUrl': [
-          {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000004278',
-          },
-        ],
-        'thumbnail': [
-          {
-            'text': 'https://product-images.metro.ca/images/h38/h3c/9704082702366.jpg',
-          },
-        ],
-        'name': [
-          {
-            'text': 'Boisson gazeuse',
-          },
-        ],
-        'nameExtended': [
-          {
-            'text': 'Boisson gazeuse 2 L',
-          },
-        ],
-        'rankOrganic': [
-          {
-            'text': '3',
-          },
-        ],
-        'rank': [
-          {
-            'text': '3',
+            text: '2',
           },
         ],
       },
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coca-Cola',
+            text: 'Coca-Cola',
           },
         ],
-        'price': [
+        price: [],
+        category: [
           {
-            'text': '',
+            text: 'Boissons',
           },
         ],
-        'category': [
+        productUrl: [
           {
-            'text': 'Boissons',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000004278',
           },
         ],
-        'productUrl': [
+        thumbnail: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000004629',
+            text: 'https://product-images.metro.ca/images/h38/h3c/9704082702366.jpg',
           },
         ],
-        'thumbnail': [
+        name: [
           {
-            'text': 'https://product-images.metro.ca/images/h4a/h4e/9704077361182.jpg',
+            text: 'Boisson gazeuse',
           },
         ],
-        'name': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse',
+            text: 'Boisson gazeuse 2 L',
           },
         ],
-        'nameExtended': [
+        rankOrganic: [
           {
-            'text': 'Boisson gazeuse 500 mL',
+            text: '3',
           },
         ],
-        'rankOrganic': [
+        rank: [
           {
-            'text': '4',
+            text: '3',
           },
         ],
-        'rank': [
+      },
+      {
+        brand: [
           {
-            'text': '4',
+            text: 'Coca-Cola',
           },
         ],
-      }
-    ]
+        price: [
+          {
+            text: '',
+          },
+        ],
+        category: [
+          {
+            text: 'Boissons',
+          },
+        ],
+        productUrl: [
+          {
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola/boisson-gazeuse/p/067000004629',
+          },
+        ],
+        thumbnail: [
+          {
+            text: 'https://product-images.metro.ca/images/h4a/h4e/9704077361182.jpg',
+          },
+        ],
+        name: [
+          {
+            text: 'Boisson gazeuse',
+          },
+        ],
+        nameExtended: [
+          {
+            text: 'Boisson gazeuse 500 mL',
+          },
+        ],
+        rankOrganic: [
+          {
+            text: '4',
+          },
+        ],
+        rank: [
+          {
+            text: '4',
+          },
+        ],
+      },
+    ],
   },
   {
-    'group': [
+    group: [
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coke Diète',
+            text: 'Coke Diète',
           },
         ],
-        'price': [
+        price: [
           {
-            'text': '5$',
+            text: '5$',
           },
         ],
-        'category': [
+        category: [
           {
-            'text': 'Boissons',
+            text: 'Boissons',
           },
         ],
-        'productUrl': [
+        productUrl: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse-sans-cafeine/p/067000004414',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse-sans-cafeine/p/067000004414',
           },
         ],
-        'thumbnail': [
+        thumbnail: [
           {
-            'text': 'https://product-images.metro.ca/images/h7d/hb2/9704072085534.jpg',
+            text: 'https://product-images.metro.ca/images/h7d/hb2/9704072085534.jpg',
           },
         ],
-        'name': [
+        name: [
           {
-            'text': 'Boisson gazeuse sans caféine',
+            text: 'Boisson gazeuse sans caféine',
           },
         ],
-        'nameExtended': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse sans caféine 2 L',
+            text: 'Boisson gazeuse sans caféine 2 L',
           },
         ],
-        'rankOrganic': [
+        rankOrganic: [
           {
-            'text': '25',
+            text: '25',
           },
         ],
-        'rank': [
+        rank: [
           {
-            'text': '25',
+            text: '25',
           },
         ],
       },
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coke Diète',
+            text: 'Coke Diète',
           },
         ],
-        'category': [
+        category: [
           {
-            'text': 'Boissons',
+            text: 'Boissons',
           },
         ],
-        'productUrl': [
+        productUrl: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse/p/067000009068',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse/p/067000009068',
           },
         ],
-        'thumbnail': [
+        thumbnail: [
           {
-            'text': 'https://product-images.metro.ca/images/hc7/he1/9731744333854.jpg',
+            text: 'https://product-images.metro.ca/images/hc7/he1/9731744333854.jpg',
           },
         ],
-        'name': [
+        name: [
           {
-            'text': 'Boisson gazeuse',
+            text: 'Boisson gazeuse',
           },
         ],
-        'nameExtended': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse 1 L',
+            text: 'Boisson gazeuse 1 L',
           },
         ],
-        'rankOrganic': [
+        rankOrganic: [
           {
-            'text': '26',
+            text: '26',
           },
         ],
-        'rank': [
+        rank: [
           {
-            'text': '26',
+            text: '26',
           },
         ],
       },
       {
-        'brand': [
+        brand: [
           {
-            'text': 'Coca-Cola Zero',
+            text: 'Coca-Cola Zero',
           },
         ],
-        'category': [
+        category: [
           {
-            'text': 'Boissons',
+            text: 'Boissons',
           },
         ],
-        'productUrl': [
+        productUrl: [
           {
-            'text': '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse-sans-calories/p/067000003776',
+            text: '/epicerie-en-ligne/allees/boissons/boissons-gazeuses/cola-diete/boisson-gazeuse-sans-calories/p/067000003776',
           },
         ],
-        'thumbnail': [
+        thumbnail: [
           {
-            'text': 'https://product-images.metro.ca/images/h8e/h34/9731746463774.jpg',
+            text: 'https://product-images.metro.ca/images/h8e/h34/9731746463774.jpg',
           },
         ],
-        'name': [
+        name: [
           {
-            'text': 'Boisson gazeuse sans calories',
+            text: 'Boisson gazeuse sans calories',
           },
         ],
-        'nameExtended': [
+        nameExtended: [
           {
-            'text': 'Boisson gazeuse sans calories 1 L',
+            text: 'Boisson gazeuse sans calories 1 L',
           },
         ],
-        'rankOrganic': [
+        rankOrganic: [
           {
-            'text': '27',
+            text: '27',
           },
         ],
-        'rank': [
+        rank: [
           {
-            'text': '27',
+            text: '27',
           },
         ],
       },
