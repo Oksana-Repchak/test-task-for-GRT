@@ -1,16 +1,23 @@
 import PropTypes from 'prop-types';
 import shortid from 'shortid';
+// import { mainData } from '../../data/data';
+
+// const fs = require('fs').promises;
+
+// const dataJSON = JSON.stringify(mainData);
 
 function TransformedData({ data }) {
-  const id = shortid.generate();
+  //   fs.writeFile('rezult.js', dataJSON);
 
+  const id = shortid.generate();
+  const idGroup = shortid.generate();
   return (
     <ol>
       {data.map(({ group }) => (
         <li key={id}>
           <ol>
             {group.map(({ productUrl, price, rank }) => (
-              <li key={id}>
+              <li key={idGroup}>
                 productUrl: {productUrl[0].text};
                 <br /> price:{JSON.stringify(price)};
                 <br /> rank: {rank[0].text};

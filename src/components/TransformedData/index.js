@@ -1,1 +1,1 @@
-export { default } from './TransformedData';
+export { default } from './TransformedData.jsx';
