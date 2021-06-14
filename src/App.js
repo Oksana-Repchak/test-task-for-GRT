@@ -1,13 +1,9 @@
-import TransformedData from './components/TransformedData';
-import { mainData } from './data/data';
-
-console.log('mainData', mainData);
-console.log('mainData[0]', mainData[0]);
-console.log('mainData[0].group[0]', mainData[0].group[0]);
-// console.log('(mainData[0].group[1]', mainData[1].group[1]);
+import RenderData from './components/RenderData';
+// import formatData from './components/formatData.js';
+// import { mainData } from './data/data.js';
 
 function App() {
-  return <TransformedData data={mainData} />;
+  return <RenderData />;
 }
 
 export default App;
