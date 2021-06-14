@@ -9,7 +9,7 @@ export const mainData = [
         ],
         price: [
           {
-            text: ' price 1.95 euro',
+            text: '1.95 euro',
           },
         ],
         category: [
@@ -56,7 +56,7 @@ export const mainData = [
         ],
         price: [
           {
-            text: ' price 5,55 euro',
+            text: '5,55 euro',
           },
         ],
         category: [
